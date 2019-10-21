@@ -7,6 +7,9 @@ Our team is made of:
 - Wei Yifei
 
 The work has been subdived in the following way. </br>
-Nana Teukam Yves Gaetan -> RQ1, RQ2 and CRQ2 (first part)
-Wei Yifei -> RQ3, RQ4 and CRQ1
-Alessandro Taglieri -> RQ5, RQ6 and CRQ2 (second part)
+
+Nana Teukam Yves Gaetan -> RQ1, RQ2 and CRQ2 (first part)  </br>
+
+Wei Yifei -> RQ3, RQ4 and CRQ1  </br>
+
+Alessandro Taglieri -> RQ5, RQ6 and CRQ2 (second part)  </br>
