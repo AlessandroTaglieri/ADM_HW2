@@ -37,8 +37,7 @@ Our Repository contain the following files:
 * **main.ipynb**
 Containing the answers to the RQs and CRQs </br>
 * **theory.ipynb** 
-Containing the answer to the theoretical question
-</br>
+Containing the answer to the theoretical question </br>
 * **README.md**
 Containing the explaination of the content of the repository
 
