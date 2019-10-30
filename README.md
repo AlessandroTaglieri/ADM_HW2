@@ -39,6 +39,5 @@ Containing the answers to the RQs and CRQs </br>
 Containing the answer to the theoretical question </br>
 * **README.md**
 Containing the explaination of the content of the repository </br>
-* **.ipynb_checkpoints**
-Containing the files of each exercise
+
 
