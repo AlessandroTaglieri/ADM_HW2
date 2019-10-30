@@ -1,7 +1,6 @@
 
 
-# Homework 2 - Soccer analytics
-### GROUP: 12
+# Homework 2: Soccer analytics - GROUP: 12
 ## Authors
 * **Yves Gaetan Nana Teukam**
 * **Alessandro Taglieri**
