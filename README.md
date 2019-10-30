@@ -26,7 +26,7 @@ Alessandro Taglieri: RQ5, RQ6 and CRQ2(second point)
 </br>
 </br>
 
-The Theoretical question has been done mostly by Alessandro with the help of Yves </br>
+The Theoretical question has been done by Alessandro and Yves </br>
 
 
 ### Repository Structure
