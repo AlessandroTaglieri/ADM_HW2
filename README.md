@@ -35,8 +35,7 @@ The Theoretical question has been done mostly by Alessandro with the help of Yve
 Our Repository contain the following files:
 
 * **main.ipynb**
-Containing the answers to the RQs and CRQs 
-</br>
+Containing the answers to the RQs and CRQs </br>
 * **theory.ipynb** 
 Containing the answer to the theoretical question
 </br>
