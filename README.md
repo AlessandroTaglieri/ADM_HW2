@@ -18,11 +18,20 @@ The homework is divided into two parts: **Research questions(RQ)** and **Core Re
 We dicided to divide the tasks in the following way:
 
 Yves Gaetan Nana Teukam: RQ1, RQ2 and CRQ2 (first point) 
-&nbsp;
+
+</br>
+</br>
+
 Wei Yifei: RQ3, RQ4 and CRQ1 
-&nbsp;
+
+</br>
+</br>
+
 Alessandro Taglieri: RQ5, RQ6 and CRQ2(second point) 
-&nbsp;
+
+</br>
+</br>
+
 
 The Theoretical question has been done mostly by Alessandro with the help of Yves </br>
 
@@ -33,10 +42,16 @@ Our Repository contain the following files:
 
 * **main.ipynb**
 Containing the answers to the RQs and CRQs 
-&nbsp;
+
+</br>
+</br>
+
 * **theory.ipynb** 
 Containing the answer to the theoretical question
-&nbsp;
+
+</br>
+</br>
+
 * **README.md**
 Containing the explaination of the content of the repository
 
